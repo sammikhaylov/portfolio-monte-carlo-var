@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+yfinance
+scipy
+
+# to run the notebook itself
+jupyter

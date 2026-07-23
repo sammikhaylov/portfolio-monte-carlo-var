@@ -1,0 +1,16 @@
+Metric,Value
+Mean Final Portfolio Value,$148843.28
+Median Final Portfolio Value,$143612.93
+Standard Deviation of Final Portfolio Values,$40304.61
+Minimum Final Portfolio Value,$59210.19
+Maximum Final Portfolio Value,$359131.56
+VaR,-7.36%
+CVaR,-16.95%
+Probability of Loss,8.47%
+95% Confidence Interval Lower Bound,$84407.39
+95% Confidence Interval Upper Bound,$243698.63
+Annualized Portfolio Return,39.88%
+Annualized Portfolio Volatility,26.82%
+PortfolioSharpe Ratio,1.30
+Average Maximum Drawdown,-18.35%
+Worst Maximum Drawdown,-50.79%
